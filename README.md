@@ -1,5 +1,6 @@
 # Ninja-Platformer
 A level based Ninja Platformer Game
+
 Includes an editor with which custom levels can be created
 Inludes: 
 - Enemies who can shoot projectiles
