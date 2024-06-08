@@ -5,6 +5,7 @@ Inludes:
 - Enemies who can shoot projectiles
 - Moving particle effects (leaves, projectiles, sparks)
 - Animations for each move
+
 Player moves:
 - Dashing
 - Wall jumps
